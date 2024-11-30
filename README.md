@@ -1,2 +1,2 @@
 # fire-detection
-Deep learning Model to detect the fire in forests 
+Deep learning Model to detect fire in forests 
